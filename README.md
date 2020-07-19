@@ -1,4 +1,4 @@
-### Hello, Beautiful Nerd!
+### Hello Beautiful Nerd!
 
 Welcome to my GitHub! Projects here are mostly experimental and/or for fun, so don't hesitate looking around.
 
